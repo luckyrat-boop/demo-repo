@@ -1,2 +1,4 @@
 # demo-repo
-this is my first repository . &lt;br> author-lucky rathod
+this is my first repository . &lt;
+<br> 
+author-lucky rathod
